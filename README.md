@@ -168,35 +168,7 @@ Truy cập **[agent.devkit.vn](https://agent.devkit.vn)** để trải nghiệm:
 - **Hỗ trợ tiếng Việt:** Giao diện và nội dung hỗ trợ tiếng Việt.
 
 ---
-
-## Cài đặt & Phát triển
-
-### Yêu cầu
-- Node.js 18+
-- npm / yarn / pnpm
-
-### Frontend
-
-```bash
-# Clone repository
-git clone https://github.com/mrbit-dev/Lunar-Gateway.git
-cd Lunar-Gateway
-
-# Cài đặt dependencies
-npm install
-
-# Chạy môi trường phát triển
-npm run dev
-
-# Build production
-npm run build
-```
-
-### Backend (API Server)
-*Thông tin chi tiết về cách cài đặt và cấu hình backend sẽ được cập nhật sau.*
-
----
-
+ 
 ## Đường dẫn liên quan
 
 - **Website:** [agent.devkit.vn](https://agent.devkit.vn)
